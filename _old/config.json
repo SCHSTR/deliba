@@ -1,0 +1,5 @@
+{
+  "token": "NzI4NDU0NDE3NjE5MjIyNTc4.Xv6oCw.ri4qbGHBGYMYkwcqJt26bNcSH90",
+  "prefix": ".",
+  "mongoPath": "mongodb://localhost:27017/tracking"
+}
